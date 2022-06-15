@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qrafaela&label=Profile%20views&color=0e75b6&style=flat" alt="qrafaela"> </p>
 
-- 🌱 Atualmente estou estudando **JEST**
-
 - 📫 E-mail **rafaela.queiroz990@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
