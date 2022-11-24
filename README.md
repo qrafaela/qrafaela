@@ -5,7 +5,7 @@
 <h2 align="center">Bem vindo ao meu perfil GitHub 👋</h2>
 <p align="center"> Tenho 23 anos, moro em Curitiba/PR.
   Estudo de forma autodidata, buscando me aprofundar mais na área da programação! ❤ <br/>
-  Atualmente estou me dedicando as Hard skills: <b>HTML5, CSS3 e JavaScript</b>
+  Atualmente estou me dedicando as Hard Skills: <b>HTML5, CSS3 e JavaScript</b>
 </p>
 <br/>
 
